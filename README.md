@@ -5,7 +5,7 @@ A project where we use machine learning tools to decide which US Stocks to inves
 <p>Young adult working in the technology sector<br>High Risk appetite<br>Looking for high growth stocks<br>Investment horizon of 1 to 3 years</p>
 
 ## Data Source
-**Yahoo Finance**
+**Yahoo Finance**<br>
 **Alpha Vantage**
 
 ## About us
