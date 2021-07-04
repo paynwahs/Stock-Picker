@@ -12,4 +12,4 @@ A project where we use machine learning tools to decide which US Stocks to inves
 **Alpha Vantage**
 
 ## About us
-We are a group of 3 university student passionate about investments. We embarked on this project for a school module. Cheers!
+We are a group of 3 university student passionate about investments. We embarked on this project for a school module. 
